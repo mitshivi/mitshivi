@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Something amazing is coming up ... stay tuned.
 
 <!--
 **mitshivi/mitshivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
